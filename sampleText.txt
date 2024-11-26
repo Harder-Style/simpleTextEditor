@@ -1,0 +1,2 @@
+This is a text file that i wrote with simpleTextEditor.
+This is another line that I added to it.
